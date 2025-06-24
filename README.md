@@ -1,3 +1,40 @@
+# ARBITRARY REMAKE AND PORT OF TOUHOUMON ANOTHER WORLD REVISED
+
+This project is intended to be a decomp remake/port of [Touhoumon: Another World Revised, by BluShell](https://www.pokecommunity.com/threads/touhoumon-another-world-revised-world-link-revised-v1-10-3-released.497990/).
+I probably won't implement any generational mechanics from Pokémon like mega evolution, and I have no plans on implementing fairy type.
+I DO however plan on adding dolls up to Legacy of Lunatic Kingdom, and if I'm lucky, Hidden Star in Four Seasons (but dont count on that), 
+overhauling some of the currently available roster (to decrease how important having a 120 speed mon is), and hopefully adding some other miscellaneous dolls.
+No ETA on this; I still need to figure out how to do some things.
+
+## TO DO, PREFERABLY IN THIS ORDER:
+- Revert the 1.8 type chart changes
+- Change the type chart to be mostly equivalent to Revised (I'm not making steel effective against electric or taking away poison's resistance to fighting)
+- Change the status orb timing to be congruent with Revised (end of turn instead of end of next turn)
+- Implement custom moves and move renames from Revised; excluding Mana Punch, I'm gonna keep that as Zen Headbutt (animations later)
+- Ability renames, to be congruent with Revised
+- Ability changes, if there are any
+- Implement base stats of Bonéka
+- Sprites and animations
+- therapy
+- Cries
+- Map out Gensokyo
+- Map out Kanto
+- therapy 
+- Actually implement the gameplay
+- Optionally, overhaul Kanto (Revised already laid the groundwork)
+- Even more optionally, overhaul Gensokyo
+- Implement options to: remove IVs from stat calculations, disable EVs as an extra challenge option
+- Probably disable dex descriptions; some of these weirdos have basically no info, and the X Bonéka are goofy, suped-up legendaries
+- therapy
+
+### Why Kanto?
+because i like kanto. i also have a lot of ideas for editing the region so i dont mind porting kanto over.
+having the systems from emerald would also be helpful
+
+I'll add credits as time goes on
+
+
+
 # worldlinkdeluxe-amegigi
 
 ## What is worldlinkdeluxe-amegigi?
